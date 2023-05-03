@@ -1,5 +1,11 @@
 # @nomicfoundation/hardhat-chai-matchers
 
+## 1.0.7
+
+### Patch Changes
+
+- 06c4797a7: Fixed a problem when `.withArgs` was used with arrays with different length
+
 ## 1.0.6
 
 ### Patch Changes
